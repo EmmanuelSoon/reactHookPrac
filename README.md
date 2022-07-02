@@ -4,3 +4,4 @@
 List of what has been done 
 
 1. useState 
+2. useEffect
