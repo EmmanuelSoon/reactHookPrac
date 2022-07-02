@@ -4,4 +4,4 @@
 List of what has been done 
 
 1. useState 
-2. useEffect
+2. useEffect -> used for mounting/unmounting and when a resource changes.
